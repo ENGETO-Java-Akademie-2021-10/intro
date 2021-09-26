@@ -122,4 +122,4 @@ Abychom společně dosáhli nejlepších výsledků, navrhujeme následující �
 
 ---
 
-[Zpět na přehled akademie](https://github.com/ENGETO-Java-Akademie-2021-07-12/intro)
+[Zpět na přehled akademie](https://github.com/ENGETO-Java-Akademie-2021-10/intro)
