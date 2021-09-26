@@ -1,5 +1,5 @@
 
-# Vítejte v červencové Java Academy 2021 👋
+# Vítej v řijnové Java Academy 2021 👋
 
 <p align="center">
   <img src="https://engeto.cz/wp-content/uploads/2019/01/engeto-square.png" width="200" height="200">
@@ -20,8 +20,8 @@
 - Co a jak si nainstalovat?
 
 ### Další materiály
-- [Řešení úkolů](https://github.com/ENGETO-Java-Akademie-2021-07-12/ukoly-a-reseni)
-- [Kód z hodin](https://github.com/ENGETO-Java-Akademie-2021-07-12/kod-z-hodin)
+- [Řešení úkolů](https://github.com/ENGETO-Java-Akademie-2021-10/ukoly-a-reseni)
+- [Kód z hodin](https://github.com/ENGETO-Java-Akademie-2021-10/kod-z-hodin)
 
 ---
 
@@ -29,87 +29,93 @@
 
 
 ## 🐌 Úvod do programování v Javě
-### 1. [Úvod (12.7.2021)](https://github.com/ENGETO-Java-Akademie-2021-07-12/lekce_01)
+### 1. [Úvod (4.10.2021)](https://github.com/ENGETO-Java-Akademie-2021-10/lekce_01)
 - Intro o&nbsp;akademii
 - Jazyk Java, první program
 - Datové typy
-- _Konzultace čtvrtek 15.7.2021 20:00._
-### 2. [Popis dat (19.7.2021)](https://github.com/ENGETO-Java-Akademie-2021-07-12/content/tree/main/lekce_02)
+- _Konzultace čtvrtek 7.10.2021 20:00._
+### 2. [Popis dat (11.10.2021)](https://github.com/ENGETO-Java-Akademie-2021-10/content/tree/main/lekce_02)
 - Objekty, třídy
 - Metody, modifikátory
 - Operátory
 - Kolekce
-- _Konzultace čtvrtek 22.7.2021 20:00._
-### 3. [Zápis algoritmu: podmínky, cykly, výčtový typ (26.7.2021)](https://github.com/ENGETO-Java-Akademie-2021-07-12/content/tree/main/lekce_03)
+- _Konzultace čtvrtek 14.10.2021 20:00._
+### 3. [Zápis algoritmu: podmínky, cykly, výčtový typ (18.10.2021)](https://github.com/ENGETO-Java-Akademie-2021-10/content/tree/main/lekce_03)
 - Podmínky
 - Cykly
 - Komentáře, dokumentace
 - Výčtový typ (`enum`)
-- _Konzultace čtvrtek 29.7.2021 20:00._
+- _Konzultace čtvrtek 21.10.2021 20:00._
 
 ---
 
 ## 🦅 Psát kód nestačí
-### 4. [Git, GitHub (2.8.2021)](https://github.com/ENGETO-Java-Akademie-2021-07-12/content/tree/main/lekce_04) <img alt="git-logo" width="20px" src="https://image.freepik.com/free-icon/github-cat-in-a-circle_318-41747.jpg" />
+### 4. [Git, GitHub (25.10.2021)](https://github.com/ENGETO-Java-Akademie-2021-10/content/tree/main/lekce_04) <img alt="git-logo" width="20px" src="https://image.freepik.com/free-icon/github-cat-in-a-circle_318-41747.jpg" />
 - Systémy pro správu verzí, Git
 - GitHub
 - větve (branch), strategie zařazení do main
 - Git a&nbsp;práce v týmu
-- _Konzultace čtvrtek 5.8.2021 20:00._
-### 5. [Soubory, výjimky (9.8.2021)](https://github.com/ENGETO-Java-Akademie-2021-07-12/content/tree/main/lekce_05)
+- _Konzultace čtvrtek 28.10.2021 20:00._
+### 5. [Soubory, výjimky (1.11.2021)](https://github.com/ENGETO-Java-Akademie-2021-10/content/tree/main/lekce_05)
 - Výjimky a ošetření chyb
 - Práce se soubory
 - Parsování textového souboru
-- _Konzultace čtvrtek 12.8.2021 20:00._
-### 6. [Kolekce, pole (16.8.2021)](https://github.com/ENGETO-Java-Akademie-2021-07-12/content/tree/main/lekce_06)
+- _Konzultace čtvrtek 4.11.2021 20:00._
+### 6. [Kolekce, pole (8.11.2021)](https://github.com/ENGETO-Java-Akademie-2021-10/content/tree/main/lekce_06)
 - Operace nad kolekcemi
 - Pole
 - Zadání prvního projektu
-- _Konzultace čtvrtek 19.8.2021 20:00._
+- _Konzultace čtvrtek 11.11.2021 20:00._
 
 ---
 
-### [První projekt](https://github.com/ENGETO-Java-Akademie-2021-07-12/content/tree/main/projekt_01)
+### [První projekt](https://github.com/ENGETO-Java-Akademie-2021-10/content/tree/main/projekt_01)
 
 ---
 
 ## 🔥 Pojďme dál
 
-### 7. [Automatizace překladu (23.8.2021)](https://github.com/ENGETO-Java-Akademie-2021-07-12/content/tree/main/lekce_07)
+### 7. [Automatizace překladu (15.11.2021)](https://github.com/ENGETO-Java-Akademie-2021-10/content/tree/main/lekce_07)
   - IDE pro Git + opakování operací
   - Maven
   - Automatizace testování
-### 8. [OOP podrobněji (30.8.2021)](https://github.com/ENGETO-Java-Akademie-2021-07-12/content/tree/main/lekce_08)
+  - _Konzultace čtvrtek 18.11.2021 20:00._
+### 8. [OOP podrobněji (22.11.2021)](https://github.com/ENGETO-Java-Akademie-2021-10/content/tree/main/lekce_08)
   - Zapouzdření, balíčky, final
   - Konstruktory, třídní atributy a metody (```static```)
   - Dědičnost, rozhraní
-### 9. [Časová složitost, mapy, vlákna (6.9.2021)](https://github.com/ENGETO-Java-Akademie-2021-07-12/content/tree/main/lekce_09)
+  - _Konzultace čtvrtek 25.11.2021 20:00._
+### 9. [Časová složitost, mapy, vlákna (29.11.2021)](https://github.com/ENGETO-Java-Akademie-2021-10/content/tree/main/lekce_09)
   - Časová složitost algoritmů
   - Mapy a další typy kolekcí
   - Práce s vlákny (thread)
+  - _Konzultace čtvrtek 2.12.2021 20:00._
 
 ---
 
 ## ⚒ Databáze a API
 
-### 10. [Úvod do databází, čistý kód (13.9.2021)](https://github.com/ENGETO-Java-Akademie-2021-07-12/content/tree/main/lekce_10)
+### 10. [Úvod do databází, čistý kód (6.12.2021)](https://github.com/ENGETO-Java-Akademie-2021-10/content/tree/main/lekce_10)
   - Úvod do databází
   - Čistý kód, refaktoring
   - Debugging
   - Ukázka &mdash; Jira
-### 11. [Databáze v Javě (20.9.2021)](https://github.com/ENGETO-Java-Akademie-2021-07-12/content/tree/main/lekce_11)
+  - _Konzultace čtvrtek 9.12.2021 20:00._
+### 11. [Databáze v Javě (13.12.2021)](https://github.com/ENGETO-Java-Akademie-2021-10/content/tree/main/lekce_11)
   - Práce s existující databází v&nbsp;Javě
   - Konstruktory, třídní atributy a metody (```static```)
   - Dědičnost, rozhraní
-### 12. [API (27.9.2021)](https://github.com/ENGETO-Java-Akademie-2021-07-12/content/tree/main/lekce_12)
+  - _Konzultace čtvrtek 16.12.2021 20:00._
+### 12. [API (20.12.2021)](https://github.com/ENGETO-Java-Akademie-2021-10/content/tree/main/lekce_12)
   - Co je API?
   - Ukázka projektu s API
   - Zadání projektu
+  - _Konzultace čtvrtek 23.12.2021 20:00._
 
 ---
 
 
-### [Druhý projekt](https://github.com/ENGETO-Java-Akademie-2021-07-12/content/tree/main/projekt_02)
+### [Druhý projekt](https://github.com/ENGETO-Java-Akademie-2021-10/content/tree/main/projekt_02)
 
 ---
 
