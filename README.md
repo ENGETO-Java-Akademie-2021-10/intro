@@ -32,7 +32,7 @@
 ### 1. [Úvod (4.10.2021)](https://github.com/ENGETO-Java-Akademie-2021-10/lekce_01)
 - Intro o&nbsp;akademii
 - Jazyk Java, první program
-- Datové typy
+- Proměnné a&nbsp;datové typy
 - _Konzultace čtvrtek 7.10.2021 20:00._
 ### 2. [Popis dat (11.10.2021)](https://github.com/ENGETO-Java-Akademie-2021-10/content/tree/main/lekce_02)
 - Objekty, třídy
