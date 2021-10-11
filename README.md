@@ -22,6 +22,8 @@
 ### Další materiály
 - [Řešení úkolů](https://github.com/ENGETO-Java-Akademie-2021-10/ukoly-a-reseni)
 - [Kód z hodin](https://github.com/ENGETO-Java-Akademie-2021-10/kod-z-hodin)
+- Odkaz na WebEx on-line hodiny pondělí 18:00-21:00 (změna!): [https://engeto.my.webex.com/engeto.my/j.php?MTID=mea9a0bac42043c41dd0fe5dad8e9cc81](https://engeto.my.webex.com/engeto.my/j.php?MTID=mea9a0bac42043c41dd0fe5dad8e9cc81)
+- Odkaz na WebEx konzultace čtvrtek od 20:00: [https://engeto.my.webex.com/engeto.my/j.php?MTID=m408bc621bcb9fde5aac83b86ffefe51d](https://engeto.my.webex.com/engeto.my/j.php?MTID=m408bc621bcb9fde5aac83b86ffefe51d)
 
 ---
 
