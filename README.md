@@ -89,7 +89,7 @@
   - _Konzultace čtvrtek 25.11.2021 20:00._
 ### 9. [Časová složitost, mapy, vlákna (29.11.2021)](https://github.com/ENGETO-Java-Akademie-2021-10/content/tree/main/lekce_09)
   - Časová složitost algoritmů
-  - Mapy a další typy kolekcí
+  - Výběr kolekce a&nbsp;časová složitost
   - Práce s vlákny (thread)
   - _Konzultace čtvrtek 2.12.2021 20:00._
 
